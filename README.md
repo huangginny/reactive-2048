@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+~~This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).~~
+
+This lame project exists because I want to try out Redux. I still think it's easier to just implement this with pure React, but maybe I am just too dumb to understand state machines :P
 
 ## Available Scripts
 
